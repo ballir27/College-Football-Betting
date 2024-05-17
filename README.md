@@ -4,7 +4,7 @@
 This project aims to analyze data from college football teams to predict game winners, optimizing potential winnings from sports betting.
 
 ## Motivation
-The inspiration for this project stems from a personal interest in sports betting and a background in American football, influenced by my undergraduate education at The Ohio State University. The goal is to identify trends and predictors within historical sports data to make more informed betting decisions.
+One of my first ideas for an ML project was to find a data source with historical sports betting odds and see if I could find a trend to make better bets. Because of my indoctrination into a strong football culture during my undergraduate years at The Ohio State University, I am focusing on college football for this project.
 
 ## Data Question
 The central question driving this project is: **Are there any useful predictors for determining college football game winners that would maximize winnings from sports betting?**
